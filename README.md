@@ -3,14 +3,14 @@
 1. Program meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
 2. Tampilkan pertanyan untuk menambah data (y/t?), apabila menjawab tidak maka menampilkan daftar datanya
 3. Nilai akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, dan uas: 35%)
-4. Buat flowchart dan penjelasannya pada README>md
+4. Buat flowchart dan penjelasannya pada README.md
 5. Commit dan push repository ke github
 ## Flowchart
 ![image](https://user-images.githubusercontent.com/115929351/203556776-16b294b1-793c-4209-adc3-82e87471e7db.png)
 
 Penjelasan Flowchart
 1. Mulai
-2. Dimulai dengan meng-input data, (NAma, NIM, Nilai)
+2. Dimulai dengan meng-input data, (Nama, NIM, Nilai)
 3. Data akan diproses dari ketiga komponen nilai tersebut untuk menghitung rata-rata nilai
 4. Keputusan akan menanyakan untuk tambah data (ya/tidak), jika memilih (ya) maka data akan naik ke atas kembali untuk diproses rata-rata nilai akhirnya
 5. Jika (tidak), maka data akan stop dan menampilkan daftar datanya
@@ -18,7 +18,7 @@ Penjelasan Flowchart
 7. Selesai
 ## Step by Step
 ![ini yg bener](https://user-images.githubusercontent.com/115929351/203557019-605520fd-0c07-46a3-9f44-2141482c2b4b.png)
-1. Membuat codingan input string (Nama, NIM, UTS, UAS, Nilai Akhir)
+1. Membuat codingan input string (Nama, NIM, Tugas, UTS, UAS, Nilai Akhir)
 2. Memakai statement float utnuk nilai akhir agar bilangan menjadi koma, dan komponen penilaian yang usdah ditentukan tugas
 3. Memakai statement data.append untuk menambahkan data dari variabel diatas
 3. Menginput data jika "tambah lagi" memakai statement if,dan lower untuk penulisan huruf kecil
