@@ -17,6 +17,7 @@ Penjelasan Flowchart
 6. Hasil output tampilan daftar datanya dan menampilkan rata-rata nilai akhirnya (List Nama, NIM, Nilai, Rata-rata nilai akhir)
 7. Selesai
 ## Step by Step
+![carbon](https://user-images.githubusercontent.com/115929351/203569306-3b0adf2a-76c6-4a04-84e4-4e1dbca7bc08.png)
 ![ini yg bener](https://user-images.githubusercontent.com/115929351/203557019-605520fd-0c07-46a3-9f44-2141482c2b4b.png)
 1. Membuat codingan input string (Nama, NIM, Tugas, UTS, UAS, Nilai Akhir)
 2. Memakai statement float utnuk nilai akhir agar bilangan menjadi koma, dan komponen penilaian yang usdah ditentukan tugas
