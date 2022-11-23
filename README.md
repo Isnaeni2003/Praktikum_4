@@ -48,3 +48,4 @@ Step by step tambah elemen list
 4. Menggabungkan nilai list (a) dan list (b) dan menampilkan hasil list (c)
 ![terbaru list](https://user-images.githubusercontent.com/115929351/203563963-e390751d-5acc-4a82-9b12-fd1bd5d9a0f2.png)
 Ini adalah hasil output dari membuat, mengubah serta menambah list dengana elemen sebanyak-banyaknya
+# Thanks for read
